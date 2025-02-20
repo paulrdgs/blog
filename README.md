@@ -9,3 +9,4 @@ clone project react
 install node with 'npm i'
 ------
 and start the front-end with 'npm run start'
+------
